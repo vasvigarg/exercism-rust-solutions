@@ -19,12 +19,14 @@ I'm solving all 98 Rust exercises to level up my Rust programming skills and doc
 | armstrong-numbers   | ✅     |
 | leap                | ✅     |
 | reverse-string      | ✅     |
-| gigasecond          | ❌     |
-| bob                 | ❌     |
-| raindrops           | ❌     |
-| sublist             | ❌     |
-| collatz-conjecture  | ❌     |
-| space-age           | ❌     |
+| gigasecond          | ✅     |
+| bob                 | ✅     |
+| raindrops           | ✅     |
+| sublist             | ✅     |
+| collatz-conjecture  | ✅     |
+| space-age           | ✅     |
+| bottle-song         | ✅     |
+| nth-prime           | ✅     |
 | ... and more coming | ❌     |
 
 > ✅ = Solved | ⏳ = In Progress | ❌ = Not started yet
