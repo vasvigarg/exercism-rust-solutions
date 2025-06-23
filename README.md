@@ -27,6 +27,12 @@ I'm solving all 98 Rust exercises to level up my Rust programming skills and doc
 | space-age           | ✅     |
 | bottle-song         | ✅     |
 | nth-prime           | ✅     |
+| difference-of-squares| ✅     |
+| grains              | ✅     |
+| binary-search       | ✅     |
+| perfect-numbers     | ✅     |
+| isbn-verifier       | ⏳     |
+| clock               | ⏳     |
 | ... and more coming | ❌     |
 
 > ✅ = Solved | ⏳ = In Progress | ❌ = Not started yet
