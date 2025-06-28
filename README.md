@@ -13,27 +13,41 @@ I'm solving all 98 Rust exercises to level up my Rust programming skills and doc
 
 ## 📚 Exercise Progress
 
-| Exercise            | Status |
-| ------------------- | ------ |
-| hello-world         | ✅     |
-| armstrong-numbers   | ✅     |
-| leap                | ✅     |
-| reverse-string      | ✅     |
-| gigasecond          | ✅     |
-| bob                 | ✅     |
-| raindrops           | ✅     |
-| sublist             | ✅     |
-| collatz-conjecture  | ✅     |
-| space-age           | ✅     |
-| bottle-song         | ✅     |
-| nth-prime           | ✅     |
-| difference-of-squares| ✅     |
-| grains              | ✅     |
-| binary-search       | ✅     |
-| perfect-numbers     | ✅     |
-| isbn-verifier       | ⏳     |
-| clock               | ⏳     |
-| ... and more coming | ❌     |
+| Exercise              | Status |
+| --------------------- | ------ |
+| anagram               | ✅     |
+| armstrong-numbers     | ✅     |
+| binary-search         | ✅     |
+| bob                   | ✅     |
+| bottle-song           | ✅     |
+| clock                 | ✅     |
+| collatz-conjecture    | ✅     |
+| difference-of-squares | ✅     |
+| eliuds-eggs           | ✅     |
+| etl                   | ✅     |
+| gigasecond            | ✅     |
+| grains                | ✅     |
+| hello-world           | ✅     |
+| high-scores           | ✅     |
+| isbn-verifier         | ✅     |
+| kindergarten-garden   | ✅     |
+| leap                  | ✅     |
+| luhn                  | ✅     |
+| matching-brackets     | ✅     |
+| minesweeper           | ✅     |
+| nth-prime             | ✅     |
+| perfect-numbers       | ✅     |
+| poker                 | ✅     |
+| prime-factors         | ✅     |
+| proverb               | ✅     |
+| raindrops             | ✅     |
+| reverse-string        | ✅     |
+| robot-simulator       | ✅     |
+| series                | ✅     |
+| space-age             | ✅     |
+| sublist               | ✅     |
+| sum-of-multiples      | ✅     |
+| ... and more coming   | ❌     |
 
 > ✅ = Solved | ⏳ = In Progress | ❌ = Not started yet
 
