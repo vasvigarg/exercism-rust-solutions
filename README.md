@@ -15,6 +15,10 @@ I'm solving all 98 Rust exercises to level up my Rust programming skills and doc
 
 | Exercise              | Status |
 | --------------------- | ------ |
+| acronym               | ✅     |
+| all-your-base         | ✅     |
+| allergies             | ✅     |
+| alphametics           | ✅     |
 | anagram               | ✅     |
 | armstrong-numbers     | ✅     |
 | binary-search         | ✅     |
@@ -25,6 +29,7 @@ I'm solving all 98 Rust exercises to level up my Rust programming skills and doc
 | difference-of-squares | ✅     |
 | eliuds-eggs           | ✅     |
 | etl                   | ✅     |
+| flower-field          | ✅     |
 | gigasecond            | ✅     |
 | grains                | ✅     |
 | hello-world           | ✅     |
