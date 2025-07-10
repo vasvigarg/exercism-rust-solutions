@@ -27,11 +27,14 @@ I'm solving all 98 Rust exercises to level up my Rust programming skills and doc
 | clock                 | ✅     |
 | collatz-conjecture    | ✅     |
 | difference-of-squares | ✅     |
+| dot-dsl               | ✅     |
 | eliuds-eggs           | ✅     |
 | etl                   | ✅     |
 | flower-field          | ✅     |
 | gigasecond            | ✅     |
 | grains                | ✅     |
+| grade-school          | ✅     |
+| hamming               | ✅     |
 | hello-world           | ✅     |
 | high-scores           | ✅     |
 | isbn-verifier         | ✅     |
@@ -52,6 +55,7 @@ I'm solving all 98 Rust exercises to level up my Rust programming skills and doc
 | space-age             | ✅     |
 | sublist               | ✅     |
 | sum-of-multiples      | ✅     |
+| bowling               | ✅     |
 | ... and more coming   | ❌     |
 
 > ✅ = Solved | ⏳ = In Progress | ❌ = Not started yet
