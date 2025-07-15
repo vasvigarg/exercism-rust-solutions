@@ -63,6 +63,13 @@ I'm solving all 98 Rust exercises to level up my Rust programming skills and doc
 | sublist               | ✅     |
 | sum-of-multiples      | ✅     |
 | bowling               | ✅     |
+| queen-attack          | ✅     |
+| rna-transcription     | ✅     |
+| run-length-encoding   | ✅     |
+| saddle-points         | ✅     |
+| say                   | ✅     |
+| scrabble-score        | ✅     |
+| sieve                 | ✅     |
 | ... and more coming   | ❌     |
 
 > ✅ = Solved | ⏳ = In Progress | ❌ = Not started yet
